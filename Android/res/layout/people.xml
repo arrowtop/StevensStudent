@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="5dp">
+    <TextView
+            android:id="@+id/dname"
+            android:textSize="35dp"
+            android:textColor="?android:textColorPrimary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/dtitle"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/dbuilding"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/droom"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/dphone"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/dfax"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/demail"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/dschool"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/ddep"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    <TextView
+            android:id="@+id/dpro"
+            android:textSize="18dp"
+            android:textColor="?android:textColorSecondary"
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,272 @@
+name title building room phone fox email school dep pro
+Bryan Ackland,Distingushed Service Professor,Burchard Building,211,201-216-8096,#,bryan.ackland@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,#
+Pinar Akcora,Assistant Professor,McLean,415,201-216-5060,201-216-8306,pinar.akcora@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering,#
+Athula Attygalle,Research Professor,McLean Chemical Sciences Building,312,201-216-5575,201-216-8240,athula.attygalle@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,#
+Soumitra Basu,Affiliate Assistant Professor,#,C203,sbasu@stevens.edu,#,#,Schaefer School of Engineering & Science,Mechanical Engineering,#
+Douglas Bauer,Professor,Kidde,222,201-216-5436,201-216-8321,dbauer@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+Richard Berkof,Industry Professor,#,E306,201-216-5538,201-216-8315,rberkof@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Pharmaceutical Manufacturing Engineering
+Ronald Besser,Professor and Program Director,#,408,201.216.5257,240.255.4028,rbesser@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Nanotechnology / Chemical Engineering / Materials Science
+Khondokar Billah,Distinguished Service Professor,Rocco,305,201-216-5344,201-216-8739,kbillah@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Civil Engineering
+Edward Blicharz,Industry Professor,Edwin A. Stevens Hall,130B,201-216-8258,201-216-5541,eblichar@stevens.edu,Schaefer School of Engineering & Science,Office of the Associate Dean of Engineering,Engineering Design
+Alan Blumberg,George Meade Bond Professor & Director of Davidson Laboratory,Davidson Laboratory,200,201-216-5289,201-216-8214,ablumber@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+Washington Braida,Associate Professor,#,#,201-216-5681,201-216-8303,wbraida@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Environmental Engineering
+Leslie Brunell,Associate Teaching Professor,Rocco,306,201-216-5337,201-216-8739,lbrunell@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Water Resources / Civil Engineering
+Michael Bruno,Feiler Chair Professor & Dean,School of Engineering & Science,Edwin A. Steven,E216,201-216-5338,201-216-8214,mbruno@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Maritime Systems / Naval Engineering / Ocean Engineering
+Barry Bunin,Chief Architect - Maritime Security Laboratory,Babbio Center,614,201-216-8216,#,Barry.Bunin@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Maritime Systems / Ocean Engineering
+Matthew Burlick,Teaching Assistant Professor,Lieb,214,201-216-5321,#,mburlick@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Wayne Carr,Professor,Burchard,710,201-216-5656,201-216-5638,wcarr@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,#
+Thomas Cattabiani,Senior Lecturer Chemical Biology,McLean,212,201-216-5536,201-216-8196,tcattabi@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology Rajarathnam Chandramouli
+Hattrick,Chair Professor,Burchard Building,315,201-216-8642,201-216-8246,rchandr1@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Computer Engineering
+Robert Chang,Assistant Professor,#,E321,201-216-8301,#,rchang6@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,#
+Constantin Chassapis,Professor & Vice Provost for Academics,#,E312/E314,201-216-5564,201-216-8315,cchassap@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Integrated Product Development / Mechanical Engineering,#
+Yingying Chen,Associate Professor & NIS Graduate Program Director,Burchard,210,201-216-8066,201-216-8246,yingying.chen@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Computer Engineering
+Chang-Hwan Choi,Associate Professor,#,C204,201-216-5579,201-216-8315,cchoi@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Nanotechnology / Mechanical Engineering
+Christos Christodoulatos,Professor & Vice Provost of Innovation & Entrepreneurship,Nicoll Laboratory,#,201-216-5675,201-216-8303,christod@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Environmental Engineering / Nanotechnology
+Jing Chuanyong,Assistant Professor,#,#,201-216-8994,201-216-8303,cjing@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Computer Engineering,#
+Cristina Comaniciu,Associate Professor & EE Graduate Program Director,Burchard Building,207,201-216-5606,201-216-8246,ccomanic@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Computer Engineering
+Adriana Compagnoni,Associate Professor,Lieb,312,201-216-5046,201-216-8249,abc@cs.stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Raju Datla,Research Associate Professor,Davidson Labs,224,201-216-5568,201-216-8214,rdatla@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Naval Engineering / Ocean Engineering
+Darinka Dentcheva,Professor,Peirce,302,201-216-8640,201-216-8321,ddentche@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics,D-203,201-216-5320,201-216-8214,Thomas.Herrington@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+Sven Dietrich,Assistant Professor,Babbio Center,635,201-216-8078,201-216-8249,spock+web@cs.stevens.edu,Schaefer School of Engineering & Science,Computer Science,Cybersecurity / Computer Science
+H. Quynh Dinh,Assistant Professor,Lieb,216,201-216-5321,201-216-8249,quynh@cs.stevens.edu,Schaefer School of Engineering & Science,#,#
+Dimitri Donskoy,Associate Professor,#,#,201-216-5316,201-216-8214,ddonskoy@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering / Nanotechnology
+Henry Du,Professor & Director,McLean Building,103A,201-216-5262,201-216-8306,hdu@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science / Microelectronics and Photonics Science and Technology / Nanotechnology
+Pavel Dubovski,Research Associate Professor,Kidde,226,201-216-5426,201-216-8321,pdubovsk@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+Daniel Duchamp,Research Professor & Department Director,Lieb,313,201-216-5390,201-216-8249,dduchamp@stevens.edu,Schaefer School of Engineering & Science,Computer Science,Computer Science
+Dominic Duggan,Associate Professor,Lieb,303,201-216-8042,201-216-8249,dduggan@stevens.edu,Schaefer School of Engineering & Science,Computer Science,Computer Science
+John Dzielski,Research Professor,Davidson Laboratory,202,201-216-8782,201-216-5537,John.Dzielski@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,#
+Richard Eitel,Teaching Associate Professor,#,#,#,#,reitel@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,#
+Sven Esche,Associate Professor,Associate Department Director,Edwin A. Stevens Hall,E-204,201-216-5559,201-216-8315,SEsche@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Mechanical Engineering
+Nariman Farvardin,University President,#,#,201-216-5213,#,nariman.farvardin@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,#
+Frank Fisher,Interim Department Director,#,C200,201-216-8913,201-216-8315,ffisher@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Mechanical Engineering / Nanotechnology
+Mr. Steven Gabarro,Assistant Teaching Professor,Lieb,302,201-216-5261,201-216-8249,sgabarro@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Bernard Gallois,Professor,Burchard,Fourth Floor,201-216-5041,201-216-8306,bgallois@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science
+Narayan Ganesan,Assistant Professor,Burchard,412,2012168057,#,nganesan@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering / Computer Engineering
+A. K. Ganguly,Distinguished Research Professor of Chemistry,McLean,316,201-216-5540,201-216-8240,aganguly@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology / Chemistry
+Robert Gilman,Professor,Peirce,304,201-216-5440,201-216-8321,rgilman@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+Joseph Glavy,Assistant Professor Chemical Biology,McLean,314,201-216-8193,201-216-8196,jglavy@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology
+Yi Guo,Associate Professor,Burchard Building,202,201-216-5658,201-216-8246,yguo1@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Hamid Hadim,Professor & Undergraduate Program Director,#,E319,201-216-5569,201-216-8315,ahadim@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Mechanical Engineering
+Sophia Hassiotis,Associate Professor,Rocco,308,201-216-8231,201-216-8739,sophia.hassiotis@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,#
+Vikki Hazelwood,Industry Professor Biomedical Engineering,McLean,202,201-216-5051,201-216-8306,Vikki.Hazelwood@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Biomedical Engineering
+Jingrui  He,Assistant Professor,Lieb,311,201-216-5358,201-216-8249,Jingrui.He@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Harry Heffes,Professor,Burchard Building,211,201-216-5607,201-216-8246,hheffes@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Thomas Herrington,Research Associate Professor,Davidson Labs,D-203,201-216-5320,201-216-8214,Thomas.Herrington@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+Norman Horing,Professor,Burchard,520A,201-216-5651,201-216-5638,nhoring@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,Physics / Nanotechnology
+Gang Hua,Associate Professor,Lieb,305,201-216-8073,201-216-8249,ghua@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Len Imas,Associate Professor,Davidson Labs,210,201-216-5357,#,Len.Imas@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+Mukundan Iyengar,Teaching Assistant,#,#,201-216-5603,#,Mukundan.Iyengar@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Computer Engineering
+Chuanyong Jing,Asssitant Professor,#,#,#,#,cjing@stevens.edu,Schaefer School of Engineering & Science,#,#
+Francis Jones,Professor,Associate Director for Chemistry & Chemical Biology,McLean,113,201-216-8313,201-216-8240,fjones@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology
+Dilhan Kalyon,Institute Professor & Director of Highly Filled Materials Institute,McLean Building,401,201-216-8225,#,dkalyon@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science / Chemistry,Chemical Biology & Biomedical Engineering,hemical Engineering / Biomedical Engineering
+George Kamberov,Associate Research Professor,Babio,613,201-216-5486,201-216-8249,My last name@cs.stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Eun-Hee Kang,Lecturer,Chemistry and Chemical Biology,McLean Hall,115,x5343,201-216-8240,ekang1@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology
+William Kazmierczak,Teaching Assistant Professor,Kidde,219B,201-216-5438,201-216-8321,lkazmier@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+David Klappholz,Associate Professor,Lieb,314,908-447-2346,201-216-8249,aklappho@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Samantha  Kleinberg,Assistant Professor,#,#,#,#,samantha.kleinberg@stevens.edu,Schaefer School of Engineering & Science,Computer Science,Computer Science
+George Korfiatis,McLean Chair Professor,Provost and University Vice President,Edwin A. Stevens Hall,404,201-216-5263,201-216-8909,gkorfiat@stevens.edu,Civil,Environmental and Ocean Engineering,Environmental Engineering
+Suphan Kovenklioglu,Professor,McLean Building,419,201-216-5519,201-216-8306,skoven@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Chemical Engineering / Nanotechnology
+Nuran Kumbaraci,Associate Professor,Chemical Biology,McLean Chemical Sciences Building,417,201-216-5554,201-216-8240,nkumbara@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology
+Brajesh Lal,Assistant Professor of Surgery,Physiology and Biomedical Engineering,#,#,#,#,lalbk@umdnj.edu,#,#,#
+Adeniyi Lawal,Professor,Burchard,427,201-216-8241,201-216-8306,alawal@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science / Chemical Engineering / Nanotechnology
+Victor Lawrence,Batchelor Chair Professor,Burchard Building,205,201-216-5636,201-216-8246,vlawrenc@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Woo Lee,George Meade Bond Professor,Chemical Engineering & Material Science,Director of the Center for Microchemical Systems,Burchard Building,B-308B,201-216-8307,201-216-8306,wlee@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science
+Marco Lenci,Assistant Professor,Kidde,219B,201-216-5453,201-216-8321,mlenci@stevens.edu,Schaefer School of Engineering & Science,#,Mathematics
+Philip Leopold,Professor & Department Director,CCBBME,McLean,515,201-216-8957,201-216-8196,pleopold@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology / Biomedical Engineering
+Hongbin Li,Professor & EE Undergraduate Program Director,Burchard Building,203,201-216-5604,201-216-8246,hli@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Yi Li,Associate Professor,Kidde,225,201-216-5433,201-216-8321,yli6@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+Jun F. Liang,Associate Professor,McLean Science Building,518,201-216-5640,201-216-8240,jliang2@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Nanotechnology / Chemistry & Chemical Biology
+Matthew Libera,Professor & Associate Dean of Engineering & Science,Burchard Building,B-010,201-216-5259,201-216-8306,mlibera@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science / Nanotechnology
+Jeremy Macdonald,Visiting Assistant Professor,Kidde,229,201-216-8596,#,jmacdon1@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,#
+Svetlana Malinovskaya,Associate Professor,Burchard,509,201-216-8094,201-216-5638,smalinov@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,Physics / Nanotechnology
+Hong Man,Associate Professor & CPE Undergraduate Program Director,Burchard Buidling,201,201-216-5038,201-216-8246,hman@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Computer Engineering
+Souran Manoochehri,Professor,#,C302,201-216-5562,201-216-8963,smanooch@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Integrated Product Development / Mechanical Engineering
+Rainer Martini,Associate Professor and Department Director,Burchard,610,201-216-5634,201-216-5638,rmartini@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,Nanotechnology / Microelectronics and Photonics Science and Technology / Physics
+Varoujan Mazmanian,Senior Lecturer,Kidde,219C,201-216-5429,201-216-8321,vmazmani@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+Bruce McNair,Distinguished Service Professor,Burchard Building,206,201-216-5549,201-216-8246,bmcnair@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering / Networked Information Systems / Computer Engineering
+Xiaoguang Meng,Professor,Nicoll Lab,#,201-216-8014,201-216-8303,xmeng@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Environmental Engineering / Nanotechnology
+Alexei Miasnikov,Distinguished Professor,Department Director,Kidde,371,201-216-8598,201-216-8321,amiasnik@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,#
+Jon Miller,Research Assistant Professor,Davidson Laboratory,D-207,201-216-8591,201-216-8214,jmiller@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+Patrick Miller,Research Associate Professor,Deputy Director,Kidde,100,201-216-8072,201-216-8321,pmiller@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,#
+Deok Moon,Research Assistant Professor,#,#,201-216-8097,201-216-8212,dmoon@stevens.edu,Schaefer School of Engineering & Science,Environmental Engineering,#
+Philippos Mordohai,Assistant Professor,Lieb,215,201-216-5611,201-216-8249,pmordoha@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Aleksey Myasnikov,Research Assistant Professor,Kidde,357,201-216-8599,201-216-8321,amyasnik@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+John Nastasi,Industry Professor & Director of Product-Architecture Program,#,C305,201-216-8984,201-216-8963,jnastasi@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Product Architecture and Engineering
+David Naumann,Professor,Lieb,301,201-216-5608,201-216-8249,dnaumann@stevens.edu,Schaefer School of Engineering & Science,Computer Science,Computer Science
+Jan Nazalewicz,Industry Professor,#,E103C,201-216-5356,#,jnazalew@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering / Engineering Services,Mechanical Engineering
+Antonio Nicolosi,Assistant Professor,Babbio,624,201-216-8035,201-216-8249,nicolosi@cs.stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Andrey Nikolaev,Postdoctoral Fellow,Kidde,229,201-216-8596,201-216-8321,anikolae@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,#
+Adebayo Ogundipe,Research Engineer,Annex,2nd Floor,201-216-5593,201-216-8303,Adebayo.Ogundipe@stevens.edu,Schaefer School of Engineering & Science,#,#
+Carrie Perlman,Assistant Professor,Biomedical Engineering,McLean Hall,#,201-216-8779,201-216-8240,cperlman@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Biomedical Engineering
+Kishore Pochiraju,Associate Professor & Director of the Design and Manufacturing Institute,Carnegie,3rd Floor,201-216-8053,201-216-8963,kishore.pochiraju@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Mechanical Engineering / Integrated Product Development
+Simon Podkolzin,Associate Professor,Burchard,426,201-216-8074,201-482-5424,spodkolz@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Chemical Engineering / Nanotechnology
+Georgios Portokalidis,Assistant Professor,Lieb,213,gportoka@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Parisa Pour Shahid Saeed Abadi,Visiting Assistant Professor,Carnegie,C-210,parisa.abadi@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,#
+Marehalli Prasad,Professor,#,E305,201-216-5571,201-216-8315,mprasad@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Mechanical Engineering
+Professor Elaine Pratt,Industry Professor,#,E121,#,#,epratt1@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Pharmaceutical Manufacturing Engineering
+Julie Pullen,Director,Center for Secure and Resilient Maritime Commerce,Research Professor,Babbio,602,201-216-8574,201-216-5537,Julie.Pullen@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+Hongwei Qiu,Research Associate Professor,#,#,201-216-8079,201-216-8306,hqiu@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science
+Arthur Ritter,Distinguished Service Professor,McLean,201,201-216-8290,201-216-8306,aritter@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Biomedical Engineering
+Marcus Rutner,Associate Professor,Rocco,307,201-216-8711,201-216-8739,mrutner@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,#
+Serban Sabau,Assistant Professor,#,#,#,#,ssabau@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,#
+Christopher Search,Associate Professor,Burchard,609,201-216-5626,201-216-5638,csearch@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,Physics / Nanotechnology
+Denis Serbin,Affiliate Associate Professor,Kidde,112,#,#,dserbin@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,#
+Danial Shahmirzadi,Visiting Assistant Professor,EAS,320,201-216-8052,201-216-8315,dshahmir@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Mechanical Engineering
+Anju Sharma,Lecturer,Chemistry and Chemical Biology,McLean,313,201-216-5530,201-216-8240,asharma@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology
+Keith Sheppard,Professor & Associate Dean of Engineering & Science.,Edwin A. Stevens Hall,216,201-216-5260,201-216-8372,Keith.Sheppard@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science
+Yong Shi,Associate Professor,#,E207,201-216-5594,201-216-8315,yong.shi@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Nanotechnology / Mechanical Engineering
+Leonid Shnayder,Industry Professor,#,E121,201-216-8510,#,lshnayde@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Pharmaceutical Manufacturing Engineering
+Anthony Shupenko,Jr. PE,Associate Professor,#,#,201-396-5903,#,anthony.shupenko@stevens.edu,Schaefer School of Engineering & Science,#,Engineering Design
+Mohammed Sidhoum,Research Associate Professor,#,#,201-216-5310,201-216-8303,msidhoum@stevens.edu,Schaefer School of Engineering & Science,#,Environmental Engineering
+Mahmood Sohrabi,Affiliate Assistant Professor,Kidde,112,201-216-5425,201-216-8321,msohrab1@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,#
+Knut Stamnes,Professor,Burchard,712,201-216-8194,201-216-5638,kstamnes@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,Physics
+Stefan Strauf,Associate Professor,Burchard,724,201-216-5639,201-216-5638,strauf@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,Nanotechnology / Physics
+Tsan-Liang Su,Research Associate Professor,#,#,201-216-5697,201-216-8303,t1su@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Environmental Engineering
+K. Subbalakshmi,Associate Professor,Burchard,208,201-216-8641,201-216-8246,ksubbala@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Charles Suffel,Professor,Dean of Graduate Academics,Edwin A. Stevens Hall,409,201-216-8031,201-216-8909,csuffel@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+Svetlana Sukhishvili,Professor,McLean Building,301,201-216-5544,201-216-8240,ssukhish@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering / Chemical Engineering & Materials Science,#
+Alexander Sutin,Research Professor,Davidson Laboratory,D-205,201-216-5339,201-216-8214,asutin@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,#
+Negar Tavassolian,Assistant Professor,Burchard,411,201-216-5496,#,negar.tavassolian@stevens.edu,#,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Stuart Tewksbury,Burchard Chair Professor,#,E403,201-216-5558,201-216-8315,sthangam@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,#
+Siva Thangam,Professor & Dean of Academic Administration,#,E403,201-216-5558,201-216-8315,sthangam@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,#
+Fei Tian,Research Assistant Professor,#,#,#,#,ftian@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,#
+Peter Tolias,Professor and Director,Center for Healthcare Innovation,McLean Hall,515,201-216-8253,201-216-8196,ptolias@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,#
+Vi Van Trieu,Industry Professor,#,#,#,#,vtrieu@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Pharmaceutical Manufacturing Engineering
+Alexander Ushakov,Assistant Professor,Kidde,219A,201-216-8597,201-216-8321,aushakov@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+David A. Vaccari,Professor and Department Director,Rocco,301,201-216-5570,201-216-8739,dvaccari@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Environmental Engineering
+Antonio Valdevit,Assistant Professor,Biomedical Engineering,McLean Hall,502,avaldevi@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Biomedical Engineering
+Andrew Walsh,Industry Professor,#,#,#,#,andrew.walsh@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Pharmaceutical Manufacturing Engineering
+Chih-Hung Wang,Lecturer,McLean Hall,211,201-216-8175,201-216-8240,cwang@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Chemistry & Chemical Biology / Chemistry
+Hongjun Wang,Associate Professor,Biomedical Engineering,McLean Hall Building,416,201-216-5556,201-216-8306,Hongjun.Wang@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Biomedical Engineering
+Wendy Wang,Assistant Professor,Babbio,620,201-216-8736,201-216-8249,hwang4@stevens.edu,Schaefer School of Engineering & Science,Schaefer School of Engineering & Science,Computer Science,Computer Science
+Susanne Wetzel,Associate Professor,Babbio,634,201-216-5610,201-216-8249,swetzel@cs.stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Edward Whittaker,Professor,Burchard,708,201-216-5707,201-216-5638,ewhittak@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics
+Xi Xu,Assistant Professor,Rocoo,307,201-216-8711,201-216-8739,xxu1@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Civil Engineering / Nanotechnology
+Eui-Hyeok Yang,Associate Professor,Carnegie,206,201-216-5574,201-216-8315,eyang@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Nanotechnology / Mechanical Engineering
+Yu-Dong Yao,Professor & Department Director,Burchard Building,B-212,201-216-5264,201-216-8246,yyao@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Ting Yu,Associate Professor,Burchard,606,201-216-8375,201-216-5638,ting.yu@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,#
+Xiaojun Yu,Associate Professor,Biomedical Engineering,McLean Building,517,201-216-5256,201-216-8306,xyu@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,Biomedical Engineering
+Michael Zabarankin,Associate Professor,Peirce,303,201-216-5434,201-216-8321,mzabaran@stevens.edu,Schaefer School of Engineering & Science,Mathematical Sciences,Mathematics
+Yujun Zhao,Teaching Associate Professor,McLean,403,201-216-8358,201-216-8306,yzhao@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Chemical Engineering
+Frank Cannavale,Technical Manager,McLean Hall,412,201-216-8291,201-216-8196,fcannava@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,#
+Tsengming (Alex) Chou,prof,Burchard,B-004,201-216-8310,201-216-8306,Tseng-Ming.Chou@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Materials Science
+Fionnuala Coyle,Administrative Assistant,Rocco,302A,201-216-5401,201-216-8739,fcoyle@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,#
+Beth DeFares,Director of Education,Babbio,611,201-216-5362,#,bdefares@stevens.edu,Schaefer School of Engineering & Science,#,#
+Mehmet Deliceoglu,Projects & Administration,McLean Hall,403,201-216-5030,201-216-5601,mdeliceo@stevens.edu,Schaefer School of Engineering & Science,#,Materials Science
+Sherry Dorso,Assistant to the Director,Lieb,317,201-216-5328,201-216-8249,sdorso@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Donna Dunning,Administrative Officer,Davidson Laboratory,#,201-216-5290,201-216-8214,ddunning@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+David  Fernandez,Director of Environmental Health & Safety,McLean Hall,McLean Hall,214,#,#,dfernan1@stevens.edu,Schaefer School of Engineering & Science,#,#
+Frances Flanigan,Administrative Assistant,Mclean,102,201-216-5546,201-216-8306,fflaniga@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,#
+Dawn Garcia,Administrative Assistant,Lieb,317,201-216-5578,201-216-8249,dgarcia@cs.stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Biruk Gebre,Research Engineer,#,#,201-216-8262,#,#,Schaefer School of Engineering & Science,Mechanical Engineering,#
+Diane Gioia,Administrative Assistant,Burchard,713,201-216-5665,201-216-5638,dgioia@stevens.edu,Schaefer School of Engineering & Science,Physics and Engineering Physics,#
+Howard Goheen III,Fleet Manager/Captain,Research Vessels,Davidson Lab,219,201-216-5668,201-216-8214,hgoheen@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,#
+Joey Gonzalez,Administrative Manager,#,#,201-216-5326,201-216-5352,jgonzal1@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Environmental Engineering
+Oliver Gould,System Administrator,Lieb,104,201-216-5684,201-216-8249,ogould@cs.stevens.edu,Schaefer School of Engineering & Science,#,#
+Marian Gracia,Administrative Assistant,McLean,111,201-216-5528,201-216-8240,mgracia@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,#
+Linda Habermann,Administrative Assistant,Kidde,100,201-216-5449,201-216-8321,linda.habermann@stevens.edu,Schaefer School of Engineering & Science,#,#
+Cecilia Jololian,Administrative Assistant,Burchard,212,201-216-8067,201-216-8246,cjololia@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Electrical Engineering
+Werner Kuhr,Director of Technology Commercialization,#,#,201-216-3509,201-216-8185,werner.kuhr@stevens.edu,Schaefer School of Engineering & Science,Provost,#
+Omar Lopez-Feliciano,Research Engineer,Davidson Lab,216,201-216-5223,201-216-8214,olopez@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering
+Camilla Minervini,Administrative Assistant,Edwin A. Stevens Hall,3rd Floor,201-216-5592,201-216-8315,cminervi@stevens.edu,Schaefer School of Engineering & Science,#,#
+Mary Newell,Senior Administrative Assistant,McLean,515,201-216-5266,201-216-8196,mnewell@stevens.edu,Schaefer School of Engineering & Science,Chemical Biology & Biomedical Engineering,#
+Dennis Palmieri,Budget Coordinator,Edwin A. Stevens Hall,206,201-216-8329,201-216-8372,Dennis.Palmieri@stevens.edu,Schaefer School of Engineering & Science,#,#
+Annette Saslow,Executive Assistant to the Dean,Edwin A. Stevens Hall,216,201-216-8233,201-216-8372,asaslow@stevens.edu,Schaefer School of Engineering & Science,#,#
+Alexander Sedunov,Senior Research Engineer,Davidson Lab,246,201-216-5674,#,asedunov@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,#
+Nikolay Sedunov,Research Engineer,Davidson Lab,246,201-216-5674,#,nsednov@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Davidson Laboratory
+Milan Simonovic,Laboratory Supervisor,Burchard,212,201-216-5623,201-216-8246,mtoloza@stevens.edu,Schaefer School of Engineering & Science,Electrical and Computer Engineering,Computer Engineering
+Jeremy Turner,Research Engineer,Davidson Laboratory,216,201-216-5223,201-216-8214,jeremy.turner@stevens.edu,Schaefer School of Engineering & Science,#,#
+Sergey Vinogradov,Research Scientist,Davidson Laboratory,215,201-216-8704,201-216-8214,svinogra@stevens.edu,Schaefer School of Engineering & Science,Civil,Environmental and Ocean Engineering,Ocean Engineering / Maritime Systems / Environmental Engineering
+Nancy Webb,Office Manager,McLean,101,201-216-5267,201-216-8306,nwebb@stevens.edu,Schaefer School of Engineering & Science,Chemical Engineering & Materials Science,Chemical Engineering
+Joy Wilson,Administrative Assistant,Carnegie,3rd Floor,201-216-8271,201-216-8963,jwilson1@stevens.edu,Schaefer School of Engineering & Science,Mechanical Engineering,Integrated Product Development
+Yu Xiang,Systems Administrator,#,#,#,#,Yu.Xiang@stevens.edu,Schaefer School of Engineering & Science,Computer Science,#
+Adeline Zeni,Assistant to the Dean,Babbio Center,#,#,#,azeni@stevens.edu,Schaefer School of Engineering & Science,#,#
+Kathryn Abel,Industry Professor,Engineering Management,Babbio Center,534,201-216-8647,201-216-5541,kabel@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Engineering Management
+Mark  Ardis,Distinguished Service Professor,Altofer,403,201-216-5143,#,mark.ardis@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Software Engineering
+James Armstrong,Industry Professor,#,#,#,#,jim.armstrong@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Engineering
+Bruce Barker,Industry Professor,#,#,#,#,Bruce.Barker@stevens.edu,School of Systems & Enterprises,#,#
+Anthony Barrese,Distinguished Service Professor & Associate Dean,Babbio,507,201-216-8768,201-216-5541,abarrese@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Engineering / Engineering Management
+Mark Blackburn,Associate Professor,Babbio,539,561-637-3452,#,mark.blackburn@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Rupak Chatterjee,Industry Professor,Babbio,545,#,#,Rupak.Chatterjee@stevens.edu,School of Systems & Enterprises,Financial Engineering / School of Systems and Enterprises,#
+Robert Cloutier,Associate Professor,Babbio,513,856-470-0458,201-216-5080,robert.cloutier@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Design and Operational Effectiveness
+Robbie  Cohen,Industry Professor,Altofer,404,#,#,Roberta.Cohen@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Software Engineering
+Kia Dalili,Postdoctoral Associate,#,#,#,#,kia.dalili@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Cheryl Dugas,Industry Professor,Babbio,537,201-216-3303,201-216-5541,cheryl.dugas@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Engineering Management
+Wilson Felder,Visiting Distinguished Service Professor,#,#,#,#,wfelder@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Ionut Florescu,Research Associate Professor FSL Director,Babbio,544,201-216-5452,201-216-8321,ifloresc@stevens.edu,School of Systems & Enterprises,Financial Engineering,#
+Valentin Gavito,Distinguished Service Professor,#,#,#,#,vgavito@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Ralph Giffin,Associate Provost and Industry Professor,Babbio,506,201-216-8541,201-216-5080,rgiffin@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Design and Operational Effectiveness / Systems Engineering
+Babak Heydari,Assistant Professor,Babbio,539,#,#,babak.heydari@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Eirik Hole,Lecturer,Babbio,535,201-216-8308,201-216-5541,ehole@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Design and Operational Effectiveness / Engineering Management
+Luca Iandoli,Visiting Scholar,Babbio Center,533,#,#,liandoli@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Jonathan Kaufman,Affiliate Associate Professor of Quantitative Finance & Financial Engineering,Babbio,303A,#,#,jonathan.kaufman@stevens.edu,School of Systems & Enterprises / Howe School of Technology Management,Financial Engineering
+Khaldoun Khashanah,Distinguished Service Professor and Program Director,Financial Engineering and Director of FE,Babbio Center,543,201-216-5446,201-216-5541,kkhashan@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Financial Engineering
+Linda Laird,Industry Professor & Software Engineering Program Director,Altofer,416,908-803-0288,#,linda.laird@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Software Engineering / Financial Engineering
+Mo Mansouri,Assistant Professor,Babbio,517,#,#,mmansour@stevens.edu,School of Systems & Enterprises,Infrastructure Systems
+Peter McQuade,Distinguished Service Professor & Space Systems Engineering Program Director,#,#,#,#,PeteMcQA2@aol.com,School of Systems & Enterprises,Space Systems Engineering,#
+Donald Merino,Emeritus Professor,Altofer,411,201-216-5504,201-216-5541,dmerino@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Engineering Management
+Ali Mostashari,Associate Professor,Sociotechnical Systems,Babbio,514,201-216-8723,#,amostash@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Infrastructure Systems / Enterprise Systems
+Roshanak Nilchiani,Assistant Professor,Babbio,538,201-216-8542,201-216-5541,rnilchia@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Engineering / Space Systems Engineering / Infrastructure Systems
+Michael  Pennock,Assistant Professor,#,#,#,#,mpennock@stevens.edu,School of Systems & Enterprises,#,#
+Michael Pennotti,Distinguished Service Professor,Altofer,418,973-632-8836,201-216-5080,michael.pennotti@stevens.edu,School of Systems & Enterprises,Systems Design and Operational Effectiveness,#
+Ricardo Pineda,Industry Professor and Director of Systems Programs,#,#,#,#,rpineda@stevens.edu,School of Systems & Enterprises,#,#
+Arthur Pyster,Distinguished Research Professor,Altofer,319,#,#,Arthur.Pyster@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Engineering / Software,School of Systems & Enterprises,School of Systems and Enterprises,Systems Design and Operational Effectiveness / Systems Engineering / Infrastructure Systems / Engineering Management
+Bill Robinson,Industry Professor & Systems Engineering Program Director,Altofer,415,973-216-2177,#,william.robinson@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Engineering
+Paul Rohmeyer,Industry Assistant Professor & Program Director,Systems Security Engineering,Altorfer,419,201-216-8107,#,prohmeye@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+William Rouse,Alexander Crombie Humphreys Professor and Director of the Center for Complex Systems & Enterprises,Babbio Center,505,#,#,wrouse@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+David Starer,Industry Professor for the Financial Engineering Program,Babbio Center,546,#,#,dstarer@stevens.edu,School of Systems & Enterprises,Financial Engineering / School of Systems and Enterprises,#
+Leslie Stevens,Industry Professor,#,#,#,#,leslie.stevens@stevens.edu,School of Systems & Enterprises,#,#
+Richard Turner,Distinguished Service Professor,Babbio,#,202-390-3772,#,Richard.Turner@Stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Software Engineering / Systems Engineering
+Dinesh Verma,Dean and Professor,School of Systems and Enterprises,Babbio,508,201-216-8645,201-216-5541,dinesh.verma@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,Systems Design and Operational Effectiveness / Systems Engineering,Systems Engineering 
+Jon  Wade,Professor,Babbio,548,#,#,jon.wade@stevens.edu,#,School of Systems & Enterprises,#,#
+Steve Yang,Assistant Professor,Babbio Center,536,201-216-3394,#,syang14@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Teresa Zigh,Research Associate,Babbio,520,tzigh@stevens.edu,School of Systems & Enterprises,School of Systems & Enterprises,School of Systems and Enterprises,Engineering Management / Systems Engineering
+Steven Britch,Finance Manager,Babbio Center,616,201-216-8717,201-216-5541,steven.britch@stevens.edu,School of Systems & Enterprises,#,#
+Monica Brito,Executive Assistant to the Dean,Babbio,509,201-216-8065,#,mbrito@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Maia Canlas,Senior Manager,Instructional Technology,Altofer,316,201-216-5167,#,maia.canlas@stevens.edu,School of Systems & Enterprises,#,#
+Elaine Chichizola,Executive Assistant,Babbio,509,201-216-8025,201-216-5541,echichi1@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Sharon Crowley,Operations Coordinator,Babbio Center,509,201-216-3357,#,scrowley@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Donna Healey,Faculty Support,Altofer,510,#,dhealey@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Jack Irving,Executive Liaison,#,#,#,#,jirving@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Jude Ken-Kwofie,Web Developer,#,#,201-216-8267,#,jkenkwof@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Wiley Larson,Space Industry Executive,#,#,719-582-0111,wlarson@stevens.edu,School of Systems & Enterprises,Space Systems Engineering / Systems Engineering,#
+Florence Lirag,SDOE Module Logistics Specialist,Altofer,510,#,#,flirag@stevens.edu,School of Systems & Enterprises,#,#
+Jessica Lopez,Student Coordinator,Altofer,510,877-376-9534,#,sfcc@stevens.edu,School of Systems & Enterprises,School of Systems and Enterprises,#
+Patricia Mruk,Deputy Assistant for Operations,Babbio,509,201-216-8901,#,patricia.mruk@stevens.edu,School of Systems & Enterprises,#,#
+Sally Muscarella,Director,Outreach,Babbio Center,504,#,Sally.Muscarella@Stevens.edu,School of Systems & Enterprises,#,#
+Doris Schultz,Director of Operations,SERC,Altofer,319,201-216-5186,201-216-8550,dschultz@stevens.edu,School of Systems & Enterprises,#,#
+Richard Anderson,Affiliate Assistant Professor,Babbio Center,423,#,#,Richard.Anderson@stevens.edu,Howe School of Technology Management,#,#
+Zvi Aronson,Affiliate Assistant Professor,Babbio Center,418,201-216-5032,201-216-5385,zvi.aronson@stevens.edu,Howe School of Technology Management,#,#
+Christopher Asakiewicz,Industry Associate Professor & Director Business Intelligence & Analytics Program,Babbio Center,427,201-216-8012,#,christopher.Asakiewicz@stevens.edu,Howe School of Technology Management,#,#
+David  Belanger,Senior Research Fellow,Babbio,409,201-216-3392,#,dbelange@stevens.edu,Howe School of Technology Management,#,#
+Tal Ben-Zvi,Associate Professor,Babbio Center,629,201-216-8545,201-216-5385,tbenzvi@stevens.edu,Howe School of Technology Management,#,#
+Murrae Bowden,Distinguished Service Professor & Program Director,Babbio Center,405,201-216-8191,201-216-8355,mbowden@stevens.edu,Howe School of Technology Management,Master of Business Administration / Management / Master of Technology Management,Master of Business Administration / Management
+Carol Brown,Distinguished Service Professor,Babbio Center,409,201.216-5581,201-216-5385,carol.brown@stevens.edu,Howe School of Technology Management,#,#
+George Calhoun,Distinguished Service Professor,Babbio Center,413,201-216-8160,201-216-5385,gcalhoun@stevens.edu,Howe School of Technology Management,#,#
+Ricardo Collado,Assistant Professor,Babbio Center,629,#,#,ricardo.collado@stevens.edu,Howe School of Technology Management,#,#
+German Creamer,Associate Professor,Babbio,637,#,#,german.creamer@stevens.edu,Howe School of Technology Management,Quantitative Finance,#
+Mahmoud Daneshmand,Industry Professor,Babbio Center,424,201-216-5542,#,Mahmoud.Daneshmand@stevens.edu,Howe School of Technology Management,Business Intelligence and Analytics,#
+Peter Dominick,Industry Associate Professor,Babbio Center,424,201-216-8071,201-216-5385,pdominic@stevens.edu,Howe School of Technology Management,#,#
+Edward Friedman,Emeritus Professor,Babbio Center,429A,201-216-5188,201-216-5385,friedman@stevens.edu,Howe School of Technology Management,Master of Technology Management,#
+Lawrence Gastwirt,Director,Howe School Alliance For Technology Management,Babbio Center,#,201-216-8941,201-792-4825,lawrence.gastwirt@stevens.edu,Howe School of Technology Management,#,#
+Hamed Ghoddusi,Assistant Professor,Babbio Center,417,201-216-3512,201-216-5385,Hamed.Ghoddusi@stevens.edu,Howe School of Technology Management,#,#
+Eleni Gousgounis,Assistant Professor,Babbio,628,201-216-8567,#,eleni.gousgounis@stevens.edu,Howe School of Technology Management,Management,Management
+Patricia Holahan,Associate Professor,Babbio Center,429,201-216-8991,201-216-5385,pholahan@stevens.edu,Howe School of Technology Management,#,#
+Jonathan Kaufman,Affiliate Associate Professor of Quantitative Finance & Financial Engineering,Babbio,303A,#,#,jonathan.kaufman@stevens.edu,School of Systems & Enterprises / Howe School of Technology Management,#,Financial Engineering
+C. Timothy Koeller,Professor,Babbio Center,403,201-216-5376,201-216-5385,tkoeller@stevens.edu,Howe School of Technology Management,PhD Program,PhD: Technology Management
+Peter Koen,Associate Professor,Babbio Center,404,201-216-5406,201-221-7788,pkoen@stevens.edu,Howe School of Technology Management,#,#
+Theodoros Lappas,Assistant Professor,Babbio Center,639,#,#,Theodoros.Lappas@stevens.edu,Howe School of Technology Management,#,#
+Thomas Lechler,Associate Professor,Babbio Center,416,201-216-8174,201-216-5385,tlechler@stevens.edu,Howe School of Technology Management,#,#
+Fang-Chun Liu,Assistant Professor,Babbio,412,201-216-3406,#,fangchun.liu@stevens.edu,Howe School of Technology Management,#,#
+Donald Lombardi,Industry Associate Professor,Babbio,420,201-216-5661,201-216-5385,donald.lombardi@stevens.edu,Howe School of Technology Management,#,#
+Gary Lynn,Associate Professor,Babbio Center,#,201-216-8028,201-216-5385,glynn@stevens.edu,Howe School of Technology Management,#,#
+Adriana Madzharov,Assistant Professor,Babbio Center,627,201-216-3339,#,Adriana.Madzharov@stevens.edu,Howe School of Technology Management,#,#
+Alan Maltz,Executive-in-Residence,Babbio,4422,561-632-4848,775-249-9576,amaltz@stevens.edu,Howe School of Technology Management,#,#
+Winter Mason,Assistant Professor,BC,627,201-216-3312,#,wmason@stevens.edu,Howe School of Technology Management,#,#
+Murad Mithani,Assistant Professor,Babbio Center,411,201-216-3462,#,mmithani@stevens.edu,Howe School of Technology Management,#,#
+Joseph Morabito,Associate Graduate Professor,Babbio Center,419,201-216-5304,201-216-5385,jmorabit@stevens.edu,Howe School of Technology Management,PhD Program,PhD: Technology Management
+Ann Murphy,Associate Dean for the Undergraduate Enterprise,Babbio Center,410,201-216-5056,201-216-5385,ann.murphy@stevens.edu,Howe School of Technology Management,#,#
+Jeffrey Nickerson,Professor and Director of the Center for Decision Technologies,Babbio Center,631,201-216-8124,201-216-5385,jnickers@stevens.edu,Howe School of Technology Management,Information Systems,#
+Michael Parfett,Distinguished Industry Professor,Babbio Center,BC,403,201-216-8731,201-216-5385,mparfett@stevens.edu,Howe School of Technology Management,#,#
+Ying Wu,Assistant Professor,Babbio Center,422A,#,#,Ying.Wu@stevens.edu,Howe School of Technology Management,#,#
+Michael zur Muehlen,Associate Professor,Babbio,426,201-216-8293,201-216-5385,Michael.zurMuehlen@stevens.edu,Howe School of Technology Management,Information Systems,Information Systems

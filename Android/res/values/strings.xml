@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stevens Student</string>
+    <string name="action_settings">Settings</string>
+    <string name="shuttle_decription">Runs 7:30am-12:16am, all year round.\nRoute loop repeats every 30 minutes.</string>
+    <string name="search_instructions">Please input professor\'s or staff\'s name to search</string>
+    <string name="emergency_decription">Chief of Police - Tim Griffin \nDeputy Chief of Police - James Collins\nMain Number - Dial (201)216-5105\nFax - (201)216-8945\nEmergencies - Dial 911\n</string>
+    <string name="emergency_content">Alert: Sandy Hurricane will affect Hoboken starting 8:00 pm today.\n        More info forthcoming.</string>
+    
+    <string name="no_result">No results found for \"%s\"</string>
+    
+    <!-- The label for use as a searchable item -->
+    <string name="search_label">Dictionary</string>
+
+    <!-- The hint text that appears in the search box. -->
+    <string name="search_hint">Search the dictionary</string>
+
+    <!-- The menu entry that invokes search. -->
+    <string name="menu_search">Search</string>
+
+    <!-- The description that will show up in the search settings for this source.  -->
+    <string name="settings_description">Definitions of words</string>
+    
+    <string name="itemdeleted">Item deleted</string>
+    <string name="taptoundo">Tap to undo</string>
+    
+    <plurals name="search_results">
+      <item quantity="one">%1$d result for \"%2$s\": </item>
+      <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+    <color name="text_color1">#cc0000</color>
+    <color name="text_color2">#190019</color>
+    <string name="search_instructions2">Please input course\'s name to search</string>
+
+</resources>

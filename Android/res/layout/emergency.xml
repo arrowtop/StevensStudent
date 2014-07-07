@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#a7a4a4"
+    android:padding="16dp" >
+
+    <TextView
+        android:id="@+id/emergency1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#ffffff"
+        android:gravity="center_vertical"
+        android:text="@string/emergency_content"
+        android:textSize="20sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/emergency2"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="#a7a4a4"
+        android:gravity="center_vertical"
+        android:text="@string/emergency_decription"
+        android:textSize="20sp" >
+    </TextView>
+
+</LinearLayout>

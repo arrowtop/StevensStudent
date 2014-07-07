@@ -1,0 +1,58 @@
+NIS-545A, Comm. Software & Middleware, 11262, Mousavi M, Thu, 06:15PM, 08:45PM, E, 229
+NIS-583A, Wireless Communications, 11263, Winters J, Mon, 06:15PM, 08:45PM, X, 414
+NIS-584A, Wireless Systems Security, 11265, McNair B, Thu, 06:15PM, 08:45PM, P, 116
+NIS-593A, Applied Data Struct. & Algor., 11270, Kruger D, Tue, 03:00PM, 05:30PM, BC, 321
+NIS-602A, Applied Discrete Mathematics, 11272, Chandramouli R, Thu, 03:00PM, 05:30PM, X, 106
+NIS-605A, Prob & Stochastic Proc. I, 11273, Heffes H, Tue, 06:15PM, 08:45PM,, X, 104
+NIS-608A, Applied Modeling & Optimization, 11274, Chandramouli R, Tue, 12:00PM, 02:30PM, L, 120
+NIS-612A, Prin of Multimedia Compression, 11275, Subbalakshmi K, Thu, 03:00PM, 05:30PM, B, 213
+NIS-630, Process Innovation & Management, 11276, Stohr E, Tue, 06:15PM, 08:45PM, BC, 321
+NIS-632A, IT Strategy, 11280, Parfett M, Mon, 06:15PM, 08:45PM, BC, 321
+NIS-633A, Integrating IS Technologies, 11282, Nicherson J, Thu, 06:15PM, 08:45PM, BC, 321
+NIS-651, Spread Spectrum and CDMA, 11285, Yao Y, Fri, 12:00PM, 02:30PM, B, 430
+NIS-654A, Design&Anal of Network Systems, 11287, Lawrence V, Thu, 06:15PM, 08:45PM, X, 106
+NIS-810E, Special Topics in NIS, 11292, Yao Y, Thu, 09:00AM, 11:30AM, B, 715
+NIS-810P, Special Topics in NIS, 11293, Iyengar M, Thu, 06:15PM, 08:45PM, X, 106
+EE-507A, Intro Microelectrinics/Photonics, 10634, Pastore R, Tue, 06:15PM, 08:45PM, B, 118
+EE-515A, Photonics I, 10638, Hutt M, Thu, 06:15PM, 08:45PM, B, 714
+EE-517A, Digital and Computer System Architecture, 10640, Ganesan N, Mon, 12:00PM, 02:30PM, X, 105
+EE-548A, Digital Signal Processing, 10641, Li H, Mon, 12:00PM, 2:30PM, E, 329
+EE-556A, Computing Princ. Of Embedded Sys, 10643, Chen Y, Tue, 12:00PM, 02:30PM, E, 329
+EE-560A, Fundamentals of Remote Sensing, 10644, Donskoy D, Tue, 06:15PM, 08:45PM, D, 242
+EE-583A, Wireless Communication, 10649, Winters J, Mon, 06:15PM, 08:45PM, X, 414
+EE-583B, Wireless Communication, 10649, Winters J, Mon, 03:00PM, 05:30PM, X, 414
+EE-585A, Phys Den of Wireless Comm Sys, 11681, McNair B, Mon, 12:00PM, 02:30PM, E, 229A
+EE-589A, Intro to Power Engieering, 10655, Djuknic G, Fri, 03:00PM, 05:30PM, B, 715
+EE-602A, Analytic Mthds Elec. Eng, 10657, Wang R, Mon, 06:15PM, 08:45PM, B, 118
+EE-602B, Analytic Mthds Elec. Eng, 10658 Wang R, Wed, 06:15PM, 08:45PM, K, 360
+EE-602C, Analytic Mthds Elec. Eng, 11999, Wang R, Mon, 03:00PM, 05:30PM, E 330
+EE-603A, Linear Systems Theory, 10660, Wang R, Thu, 03:00PM, 05:30PM, X, 105
+EE-603B, Linear Systems Theory, 10661, Wang R, Thu, 06:15PM, 08:45PM, B, 118
+EE-603C, Linear Systems Theory, 12055, Tavassolian N, Thu, 12:00PM, 02:30PM, C, 316
+EE-605A, Prob & Stochastic Proc I, 10663, Heffes H, Tue, 06:15PM, 08:45PM, X, 104
+EE-605B, Prob & Stochastic Proc I, 10664, Santapietro J, Wed, 06:15PM, 08:45PM, BC, 319
+EE-605C, Prob & Stochastic Proc I, 12000, Djuknic G, Fri, 06:15PM, 08:45PM, E, 230
+EE-608A, Applied Modeling & Optimization, 10665, Chandramouli R, Tue, 12:00PM, 02:30PM, L, 120
+EE-612A, Prin of Multimedia Compression, 10666, Subbalakshimi K, Thu, 03:00PM, 05:30PM, B, 213
+EE-651A, Spread Spectrum and CDMA, 10669, Yao Y, Fri, 12:00PM, 02:30PM, B, 430
+EE-672A, Game Theory for Wireless Network, 10673, Comaniciu C, Thu, 03:00PM, 05:30PM, B, 430
+EE-695A, Applied Machine Learning, 10674, Duan R, Wed, 06:15PM, 08:45PM, E, 231
+EE-810P, Programming for Eng&Info Sys Dgn, 10679, Iyengar M, Tue, 06:15PM, 08:45PM, X, 106
+EE-820A, Research Seminar, 11684, Chen Y, Wed, 03:00PM, 04:40PM, BC, 319
+CPE-517A, Digital & Comp Sys Architecture, 10329, Ganesan N, Mon, 12:00PM, 02:30PM, X, 105
+CPE-537A, Interactive Computer Graphics, 10332, Kamberov G, Tue, 06:15PM, 08:45PM, M, 103
+CPE-545A, Comm. Software & Middleware, 10333, Mousavi M, Thu, 06:15PM, 08:45PM, E, 229
+CPE-548A, Digital Signal Processing, 10334, Li H, Mon, 12:00PM, 02:30PM, E, 329
+CPE-555A, Real-time and Embedded Systems, 10337, Zaringhalam A, Tue, 06:15PM, 08:45PM, K, 360
+CPE-556A, Computing Princ. of Embedded Sys, 10338, Chen Y, Tue, 12:00PM, 02:30PM, E, 329
+CPE-585A, Medical Instrumentation & Imaging, 10339, Man H, Mon(Tue), 06:15PM, 07:55PM(08:45PM), P, 220
+CPE-593A, Applied Data Struct. & Algor., 10343, Kruger D, Tue, 03:00PM, 05:30PM, BC, 321
+CPE-602A, Applied Discrete Mathematics, 10345, Chandramouli R, Thu, 03:00PM, 05:30PM, X, 106
+CPE-625A, Fundamentals of Systems Eng, 10346, Hole E, Wed, 06:15PM, 08:45PM, BC, 310
+CPE-640A, Software Engineering I, 10347, Ganesan N, Tue, 06:15PM, 08:45PM, BC, 319
+CPE-646A, Pattern Recognition & Classific, 12049, Man H, Fri, 12:00PM, 02:30PM, B, 213
+CPE-654A, Design&Anal of Network Systems, 10350, Lawrence V, Thu, 06:15PM, 08:45PM, X, 106
+CPE-690A, Introduction to VSLI Design, 11647, Ackland B, Fri, 03:00PM, 05:30PM, BC, 210
+CPE-695A, Applied Machine Learning, 10356, Duan R, Wed, 06:15PM, 08:45PM, E, 231
+CPE-810E, Special Topics in CPE, 10359, Yao Y, Thu, 09:00AM, 11:30AM, B, 715
+CPE-810P, Special Topics in CPE, 10360, Iyengar M, Tue, 06:15PM, 08:45PM, X, 106

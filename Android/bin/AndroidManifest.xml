@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.test4"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.example.test4.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/SecondStyle" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.test4.SecondActivity"
+            android:theme="@style/MainStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.ThirdActivity"
+            android:theme="@style/MainStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.FourthActivity"
+            android:theme="@style/MainStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.Shuttle"
+            android:label="Shuttle"
+            android:theme="@style/MainStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.Directory"
+            android:label="Directory"
+            android:launchMode="singleTop"
+            android:theme="@style/MainStyle" >
+
+            <!-- Receives the search request. -->
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+                <!-- No category needed, because the Intent will specify this class component -->
+            </intent-filter>
+
+            <!-- Points to searchable meta data. -->
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:name="com.example.test4.Course"
+            android:label="Course"
+            android:launchMode="singleTop"
+            android:theme="@style/MainStyle" >
+
+            <!-- Receives the search request. -->
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+                <!-- No category needed, because the Intent will specify this class component -->
+            </intent-filter>
+
+            <!-- Points to searchable meta data. -->
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable2" />
+        </activity>
+        <activity
+            android:name="com.example.test4.CourseActivity"
+            android:label="Course"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.CourseBookmarked"
+            android:label="Bookmark"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.DirectoryList"
+            android:label="Directory"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.CourseList"
+            android:label="Course"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.Emergency"
+            android:label="Emergency"
+            android:theme="@style/MainStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.Links"
+            android:label="Links"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        <activity
+            android:name="com.example.test4.WebViewActivity"
+            android:theme="@style/MainStyle" >
+        </activity>
+        <activity 
+            android:name="com.example.test4.VideoActivity"
+            android:label="About"	 >
+        </activity>
+        <activity
+            android:name="com.example.test4.Building"
+            android:label="Building"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        
+        <activity
+            android:name="com.example.test4.DiningFront"
+            android:label="Dining"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        
+        <activity
+            android:name="com.example.test4.Dining"
+            android:label="Dining"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        
+        <activity
+            android:name="com.example.test4.Settings"
+            android:label="Settings"
+            android:theme="@style/SecondStyle" >
+        </activity>
+        
+        <service
+            android:name="com.example.test4.DiningHttpService"
+            android:enabled="true" >
+        </service>
+
+        <provider
+            android:name="com.example.test4.DirectoryProvider"
+            android:authorities="com.example.DirectoryProvider" />
+
+        <!-- Points to searchable activity so the whole app can invoke search. -->
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value=".Directory" />
+
+        <provider
+            android:name="com.example.test4.CourseProvider"
+            android:authorities="com.example.CourseProvider" />
+
+        <!-- Points to searchable activity so the whole app can invoke search. -->
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value=".Course" />
+    </application>
+
+</manifest>
