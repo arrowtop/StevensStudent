@@ -1,12 +1,6 @@
 StevensStudent
 ==============
 
-According to the survey of Stevens students and current resources that Stevens provide on the website, the new Android application, which called “Stevens Students”, should have the following 10 functions: News, Events, Athletics, Shuttles, Dining, Directory, Course, Emergency, Building, Links.
+Smartphones have noticeably taken over in recent years with popularity rising in college campuses. They are portable, convenient and nearly as useful as a laptop. However, due to the screen size and less powerful browser of smartphones, it is difficult and troublesome for students to get access to school resources from school full website. Therefore, it is important to create mobile websites or a native app of the school for smartphones.
 
-News and Events are presented in the web app part in order to achieve the best appearance. Athletics function already has mobile website, so we only need to give a reference link to it in our android app and web app. The other seven functions are achieved in the android part. We also build a server to fetch data from Stevens websites to obtain dining, news and events information.
-
-The outline of our solution is:
-
-1. Web app: News, Events, Athletics(Reference).
-2. Android app: News & Events(Reference of Web App), Athletics(Reference), Shuttles, Dining, Directory, Course, Emergency, Building, Links.
-3. Server: Fetch dining, news and events information from Stevens.
+Stevens Institute of Technology(Stevens) has already made native apps for iOS and Android, and a mobile website for stevensducks. However, these native apps do not perform well enough. For instance, the “read more” button in the News Section is not working, and the information in the Events Section is not well formatted. What is more, the apps lack some useful functions such as shuttles and dining menus of school dining halls. With regard to mobile websites, Stevens only have one mobile website, which is not enough for students. Therefore, we decide to create another native app for mobile device and mobile websites of Stevens.
